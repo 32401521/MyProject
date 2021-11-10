@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\users\kk970\desktop\hw3\p13\source\main.c : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+c:\users\kk970\desktop\hw3\p13\source\main.c(17): warning C4477: 'printf' : 格式字串 '%f' 需要 'double' 類型的引數，但 variadic 引數 1 的類型為 'int'
+c:\users\kk970\desktop\hw3\p13\source\main.c(17): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  c:\users\kk970\desktop\hw3\p13\source\main.c(17): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  P13.vcxproj -> C:\Users\kk970\Desktop\hw3\P13\.\temp\debug\P13.exe
